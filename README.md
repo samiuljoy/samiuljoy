@@ -13,6 +13,10 @@
 
 [samiuljoy.github.io](https://samiuljoy.github.io)
 
+***Currently running***
+
+Debian Buster with dwm
+
 [(^.^)](https://www.youtube.com/watch?v=BM4cnioNmDU)
 <!--
 **samiuljoy/samiuljoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
