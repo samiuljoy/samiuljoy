@@ -1,6 +1,6 @@
 ## Hello World!! 
 
-### Thank you for paying a visit to my github profile ^-^
+### Thank you for stopping by! ^-^
 
 **You can reach out to me through;**
 
