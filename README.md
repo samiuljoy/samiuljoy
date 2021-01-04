@@ -1,5 +1,19 @@
-### Hi there 👋
+## Hello World!! 
 
+### Thank you for paying a visit to my github profile ^-^
+
+**You can reach out to me through;**
+
+***Fediverse***
+
+* Mastodon [@samiuljoy](https://fosstodon.org/@samiuljoy)
+* Matrix chat @samiuljoy:@matrix.org
+
+***Made a website from scratch, check it out c:***
+
+[samiuljoy.github.io](https://samiuljoy.github.io)
+
+[(^.^)](https://www.youtube.com/watch?v=BM4cnioNmDU)
 <!--
 **samiuljoy/samiuljoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
