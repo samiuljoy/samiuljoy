@@ -6,7 +6,7 @@
 
 ***Fediverse***
 
-* Masstodon [@samiuljoy](https://fosstodon.org/@samiuljoy)
+* Mastodon [@samiuljoy](https://fosstodon.org/@samiuljoy)
 * Matrix chat @samiuljoy:@matrix.org
 
 ***Email***
