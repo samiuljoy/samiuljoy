@@ -9,7 +9,7 @@
 * Mastodon [@samiuljoy](https://fosstodon.org/@samiuljoy)
 * Matrix chat @samiuljoy:@matrix.org
 
-***Email***
+***Contact***
 
 ***base64*** [c2FtaXVsam95QHByb3Rvbm1haWwuY29tCg==]
 
